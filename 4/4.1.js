@@ -10,4 +10,4 @@ const fibonacci = (number) => {
   return fibMemo[number];
 };
 
-console.log(fibonacci(8));
+console.log(fibonacci(5));
